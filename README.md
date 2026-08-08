@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gWareCoder
 - 👀 I’m interested in making products that matter
-- 🌱 I’m currently learning antigravity
+- 🌱 I’m currently pair programming with my antigravity
 
 <!---
 gWareCoder/gWareCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
