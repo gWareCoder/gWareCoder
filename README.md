@@ -10,6 +10,8 @@ Smartsplit Co-Op. I am sick of rising prices for everything. I love stores like 
 
 MonarchStation. Monarchstation is an autonomous, edge-accelerated Computer Vision (CV) detection, tracking, and habitat analytics system engineered for Monarch Butterfly (Danaus plexippus) conservation waystations and milkweed gardens.
 
+GoDB is a full-featured, self-contained relational database management application built by @gwarecoder with a high-performance Go backend and an interactive web frontend. It allows users to create databases, visually design and link tables with foreign keys, manage records using intuitive dynamic data entry screens, and construct SQL queries using a visual query builder and raw SQL console.
+
 Clawsense. This is a passion project when I first went to micro center for its reopening I found this wonderful little computer called the Nvidia Jetson Orin Nano Super.  Long name.  I fell in-love with this tiny $249 device that allowed me to run docker containers and 4bit LLMs to do basic stuff.  This app takes video and voice and identifies objects and summarizes them. just a start but pretty neat.
 
 PickleIQ.  I wanted to be able to write an application for my main passion in life which is Pickle ball. I wanted to improve my skills by building an apple watch application that tracks my errors by type of errors.
