@@ -8,6 +8,8 @@ MyBestLife. I created My Best Life as a web application to help recent retirees 
 
 Smartsplit Co-Op. I am sick of rising prices for everything. I love stores like Costco and good value but I have a small home and I cannot possibly store all the bulk items like toilet paper or use all of the perishables by their expiration date so I want to be able to list them for folks in my neighborhood hub in the hopes of saving even more money while helping folks in my neighborhood get the same value I do.
 
+MonarchStation. Monarchstation is an autonomous, edge-accelerated Computer Vision (CV) detection, tracking, and habitat analytics system engineered for Monarch Butterfly (Danaus plexippus) conservation waystations and milkweed gardens.
+
 Clawsense. This is a passion project when I first went to micro center for its reopening I found this wonderful little computer called the Nvidia Jetson Orin Nano Super.  Long name.  I fell in-love with this tiny $249 device that allowed me to run docker containers and 4bit LLMs to do basic stuff.  This app takes video and voice and identifies objects and summarizes them. just a start but pretty neat.
 
 PickleIQ.  I wanted to be able to write an application for my main passion in life which is Pickle ball. I wanted to improve my skills by building an apple watch application that tracks my errors by type of errors.
