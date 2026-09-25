@@ -1,6 +1,6 @@
 Hi, I’m @gWareCoder
 I’m interested in making products that matter
-I’m currently pair programming with antigravity across five devices. Jetson orin Nano, Pi5s and mac.
+I’m currently pair programming with antigravity across five devices. Nvidia Jetson orin Nano Super, three CM5s and mac.
 
 I have created some useful applications in several repositories that are growing everyday.  I have passions about making products that can help people like me.  
 
