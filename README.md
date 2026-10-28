@@ -4,6 +4,8 @@ I’m currently pair programming with antigravity across five devices. Nvidia Je
 
 I have created some useful applications in several repositories that are growing everyday.  I have passions about making products that can help people like me.  
 
+FraudHunter. I created this application/dashboard to get a overall understanding of potential areas of the California budget that have anomalies.
+
 MyBestLife. I created My Best Life as a web application to help recent retirees get the most out of every minute of every day of their new lives.  Its a hell of a lot more important to track retirement hours than work hours.  I wanted a place that could help folks transition to retirement by tracking outcomes and things they want to be able to achieve. Paint a holistic picture of their entire retired lives and just how productive they can be doing simple things.  I enjoy using this tool to help transition my mindset from needing to be a producer to someone that uses time to the best of their ability. Time is even more important now so why not track the things you love doing.
 
 Smartsplit Co-Op. I am sick of rising prices for everything. I love stores like Costco and good value but I have a small home and I cannot possibly store all the bulk items like toilet paper or use all of the perishables by their expiration date so I want to be able to list them for folks in my neighborhood hub in the hopes of saving even more money while helping folks in my neighborhood get the same value I do.
