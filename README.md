@@ -4,7 +4,7 @@ I’m currently pair programming with antigravity across five devices. Nvidia Je
 
 I have created some useful applications in several repositories that are growing everyday.  I have passions about making products that can help people like me.  
 
-FraudHunter. I created this application/dashboard to get a overall understanding of potential areas of the California budget that have anomalies.
+FraudHunter. I created this application/dashboard to get a overall understanding of potential areas of the California budget that have anomalies. FraudHunter is a full-stack public expenditure oversight, dataset discovery, machine learning anomaly detection, and Gemini 4 Argon forensic audit platform covering all 7 Key Pillars of the California Budget with deep pre-configured focus on the 9-County San Francisco Bay Area, Surrounding Counties (Santa Cruz, San Joaquin, Sacramento)
 
 MyBestLife. I created My Best Life as a web application to help recent retirees get the most out of every minute of every day of their new lives.  Its a hell of a lot more important to track retirement hours than work hours.  I wanted a place that could help folks transition to retirement by tracking outcomes and things they want to be able to achieve. Paint a holistic picture of their entire retired lives and just how productive they can be doing simple things.  I enjoy using this tool to help transition my mindset from needing to be a producer to someone that uses time to the best of their ability. Time is even more important now so why not track the things you love doing.
 
